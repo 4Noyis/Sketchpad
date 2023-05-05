@@ -1,8 +1,10 @@
 
 const container=document.querySelector(".container");
+let side = prompt("chose your pad's size")
 
+let square =(side*side)+1;
 
-for (let i = 1; i < 257; i++) {
+for (let i = 1; i < square; i++) {
     //const element = array[i];
     const div=document.createElement('div');
     div.classList.add("pixels")
