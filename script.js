@@ -58,11 +58,5 @@ function createGrid() {
 
 
 
-/* Yapılacaklar
 
--mouse hovering +
--square chosing css'te sıkıntı var 16n olan yerin sürekli değişmesi gerekiyor + containera yeni sınıf eklenerek yapıldı
--prompt kısmını bi butona eventListiner olarak atıyıp tekrar tıklanınca yeni boyutta alan oluşturcak +
--
-*/
 
